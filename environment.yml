@@ -1,0 +1,15 @@
+name: corall
+channels:
+- conda-forge                                                                                                                                                                  
+- bioconda                                                                                                                                                                     
+- defaults
+dependencies:
+- samtools=1.9
+- cutadapt=2.5
+- star=2.6.1b
+- umi_tools=1.0.0
+- fastqc=0.11.8
+- multiqc=1.7
+- gawk=5.0.0
+- pip:
+  - pyyaml<=5.4.1 # required for multiqc=1.7
