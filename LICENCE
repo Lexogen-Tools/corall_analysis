@@ -1074,3 +1074,154 @@ Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
+
+
+MIX-SQUARE LICENCE
+
+
+1. Scope and Definitions
+
+These license terms govern the rights and duties between you (thereafter called 
+Licensee) and LEXOGEN GmbH, Campus Vienna Biocenter 5 1030 Wien, Austria 
+(thereafter called LEXOGEN) regarding the download, the installation and the 
+use of software provided by LEXOGEN. 
+
+The term Software refers to all applications or computer programs in binary or 
+in source-code form, any other machine readable materials (including, but not 
+limited to, libraries, source files, header files, and data files), any updates 
+or error corrections provided by LEXOGEN, and any user manuals, programming 
+guides and other documentation provided to the Licensee by LEXOGEN under this 
+agreement.
+
+LEXOGEN or their suppliers exclusively manufactured the Software. Any rights to 
+the Software other than the license conditions stated herein remain 
+undiminished for LEXOGEN or their suppliers; the Licensee acquires no rights of 
+any kind to the Software.
+
+By downloading, installing or using the Software or parts of the Software, the 
+Licensee accepts the terms of this agreement. 
+
+2. License Keys and Distribution
+
+The license key will be individually assigned and transferred to the Licensee 
+and is to be treated confidentially. Passing the license key on to third party 
+is strictly forbidden except for automatic licensing purposes as part of the 
+Licensee's application according to the terms of the license. In each case the 
+Licensee agrees to maintain maximum confidentiality for the license key (e.g. 
+by protecting the embedding source-code in a suitable way).
+
+Any use of a license key that was not directly issued by LEXOGEN or one of 
+their authorized resellers in connection with the Software is strictly 
+forbidden.
+
+The Licensee is not permitted in any way to make the Software or parts of the 
+Software accessible to third party, to allow the use of the Software or parts 
+of it, or to pass it on to third party under any title beyond the terms stated 
+in this agreement. This includes, in addition to all parts of the Software, any 
+supplements or improvements as well as additions of any kind that the Licensee 
+receives from LEXOGEN now or in the future. Any supplements or improvements 
+made to the Software by the Licensee are to be made available to LEXOGEN for 
+unlimited use and free of charge.
+
+3. Restrictions
+
+The Licensee is permitted to use the Software only for legal purposes and 
+according to the valid national or international regulations.
+
+The Licensee is not allowed to use the Software to build or redistribute other 
+software components or applications of any kind (for example DLLs, OCX, VBX, 
+.NET Classes, Libraries, Beans, EXEs...) if their main purpose is comparable or 
+similar to the main purpose of the Software itself (so called wrapping or 
+re-wrapping).
+
+The software is distributed with node-locked licenses which is locked to the 
+machine which was used for the activation of the license, and should not be 
+transferred to another machine without prior consent of Lexogen. When using the 
+Software as part of an application the functionality of the API (Application 
+Programming Interface) must not be accessible from outside of this application 
+and the Software must not be use-able apart from this application.
+
+In each case it is forbidden to modify, to change or to patch the Software. It 
+is not allowed to reverse-engineer, to disassemble or to decompile the 
+Software. 
+
+4. Indemnification
+
+LEXOGEN shall indemnify, defend and hold harmless the Licensee with respect to 
+any action brought against the Licensee to the extent that it is based on a 
+claim that the Software infringes a copyright of a third party. However, the 
+Licensee is obligated to notify LEXOGEN promptly in writing and to include all 
+useful information of any notice of such claim. LEXOGEN shall have sole control 
+of the defense of any action of such claim and all negotiations for its 
+settlement.
+
+5. Limited Warranty
+
+LEXOGEN warrants to the Licensee that for a period of thirty (30) days from the 
+date of purchase, as evidenced by a copy of the receipt, the media on which 
+Software is furnished (if any) will be free of defects in materials and 
+workmanship under normal use. Except for the foregoing, the Software is 
+provided "AS IS". The Licensee's exclusive remedy and LEXOGEN's entire 
+liability under this limited warranty will be at LEXOGEN's option to replace 
+the Software media or refund the fee paid for the Software. Any implied 
+warranties on the Software are limited to 90 days. Some countries or states do 
+not allow limitations on duration of an implied warranty, so the above may not 
+apply to the Licensee. This limited warranty gives the Licensee specific legal 
+rights. The Licensee may have others, which vary from state to state or from 
+country to country.
+
+LEXOGEN reserves the right to replace any existing versions of the Software, to 
+offer new Software or to discontinue existing Software at any time and without 
+notice. LEXOGEN will ensure the compatibility with subsequent Software versions 
+and the validity of existing license keys beyond Software version boundaries 
+when possible, however no claims can be made against LEXOGEN in the event that 
+the Software or the license key is not, no longer or not completely compatible 
+with a prior version.
+
+6. Disclaimer of Warranty
+
+Unless specified in this agreement, all express or implied conditions, 
+representations and warranties, including any implied warranty of 
+merchantability, fitness for a particular purpose or non-infringement are 
+disclaimed, except to the extent that these disclaimers are held to be legally 
+invalid.
+
+7. Limitation of Liability
+
+To the extent not prohibited by law, in no event will LEXOGEN or its 
+contractual partners be liable for any lost revenue, profit or data, or for 
+special, indirect, consequential, incidental or punitive damages, however 
+caused regardless of the theory of liability, arising out of or related to the 
+use of or inability to use the Software, even if LEXOGEN has been advised of or 
+LEXOGEN has pointed out the possibility of such damages.
+
+In no event will LEXOGEN's liability to the Licensee, whether in contract, tort 
+(including negligence), or otherwise, exceed the amount paid by the Licensee 
+for the Software or for the license keys under this agreement. The foregoing 
+limitations will apply even if the above stated warranty fails of its essential 
+purpose. Some states or countries do not allow the exclusion of incidental or 
+consequential damages, so some of the terms above may not be applicable to the 
+Licensee.
+
+8. Governing Law
+
+This agreement shall be construed and governed with the Laws of the Republic of 
+Austria. No choice of law rules of any jurisdiction will apply and any claims 
+being founded on laws of other states or countries are excluded. For any 
+lawsuit relating to this agreement both parties submit to the jurisdiction of 
+the court, having jurisdiction for the area of the city of Vienna, Austria 
+under the Austrian laws with regard to the amount in dispute. With regard to 
+claims against LEXOGEN this court's jurisdiction is exclusive.
+
+9. Final Provisions 
+
+Should any term of this agreement be declared void or unenforceable by the 
+court of competent jurisdiction, such declaration shall have no effect on the 
+remaining terms hereof, as the economic aims remain accessible. The applicable 
+terms may be replaced by terms with the most similar economic impact. 
+
+The failure of either party to enforce any rights granted hereunder or to take 
+action against the other party in the event of any breach hereunder shall not 
+be deemed a waiver by that party as to subsequent enforcement of the same or 
+other rights or subsequent actions in the event of future breaches.
+
