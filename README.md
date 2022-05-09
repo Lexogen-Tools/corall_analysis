@@ -46,4 +46,7 @@ The pipeline can then be run in the same way as shown above e.g.
 
 `./run_corall_docker.sh -o ${input_dir}/corall_out -d corall:v1.0.0-customer ${input_dir}/sample_fastq.csv`
 
+## Running local tests
+In case you need to validate your set-up you can run ./test_data/test_pipeline.sh from the cloned root directory. Conda needs to be accessible in order to run the tests (e.g. by running conda init or the conda folder needs to be included in PATH environment variable). 
+
 
