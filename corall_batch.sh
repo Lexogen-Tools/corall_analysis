@@ -28,6 +28,9 @@ for needed_command in $my_needed_commands; do
   fi
 done
 
+# needed for mix-square executable
+PATH=$(pwd):$PATH
+
 if ((missing_counter > 0)); then
   printf "Minimum %d commands are missing in PATH or environment, aborting\n" $missing_counter >&2
   exit 1

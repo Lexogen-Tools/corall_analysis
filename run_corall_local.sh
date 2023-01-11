@@ -35,7 +35,7 @@ then
 	then
 		corall_opt="--r1 $1"
 	else
-		corall_opt="--r1 $1 --rd2 $2"
+		corall_opt="--r1 $1 --r2 $2"
 	fi
 elif [[ $1 =~ \.csv$ ]]
 then
@@ -47,7 +47,7 @@ fi
 
 source ${miniconda_install_dir}/bin/activate corall
 
-corall_batch.sh ${corall_opt} \
+./corall_batch.sh ${corall_opt} \
   --gtfFile ${gtf_file} \
   --starGenomeDir ${star_index} \
   --baseDir ${out_dir}

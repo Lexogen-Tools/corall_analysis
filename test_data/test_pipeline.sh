@@ -38,7 +38,7 @@ if [ ! -z "$d" ]; then
 fi
 
 echo "Comparing gene quantification with expected output.."
-d=$(diff <(awk '{print $3"\t"$9}' ./test_data/test_output/test_R1.fq.gz/genes_summary_umi_deduplicated.dat) ./test_data/gene_table_reference)
+d=$(diff <(awk '{print $3"\t"$9}' ./test_data/test_output/test_R1/genes_summary_umi_deduplicated.dat) ./test_data/gene_table_reference)
 if [ ! -z "$d" ]; then
 	echo "gene quantification table has changed.. please check if this is intended" >&2
 	exit 1
