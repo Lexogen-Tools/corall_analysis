@@ -11,7 +11,7 @@ The steps for CORALL analysis on demultiplexed FASTQ files are as follows:
 2. Adapter trimming (Cutadapt 2.5)
 3. Alignment (STAR 2.6.1b)
 4. UMI deduplicating (UMI-tools 1.0.0)
-5. Transcript quantification (mix-square 1.4.0.1)
+5. Transcript quantification (mix-square 1.4.0.2)
 
 # Pipeline set-up
 
