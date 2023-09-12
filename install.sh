@@ -10,7 +10,7 @@ miniconda_install_dir=$1
 
 export PATH="${miniconda_install_dir}/bin:$PATH"
 
-conda env create -f ./environment.yml
+conda env create -f ./environment.yml --solver libmamba
 
 cp corall_batch.sh ${miniconda_install_dir}/envs/corall/bin
 
