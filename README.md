@@ -15,6 +15,10 @@ The steps for CORALL analysis on demultiplexed FASTQ files are as follows:
 
 # Pipeline set-up
 
+## Download Mix² RNA-Seq Data Analysis Software
+
+Before you do any of the other steps for the pipeline set-up, you need to download Mix² from https://www.lexogen.com/mix-analysis-software/ and extract the binary with the name mix-square to the main folder of this repository.
+
 ## Using installation in local miniconda environment
 
 If your miniconda environment is located in ~/miniconda3 you can, for instance, install the pipeline in your local environment with
